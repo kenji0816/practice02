@@ -1,0 +1,15 @@
+public abstract class Hero{
+private String name;
+private int hp;
+private int mp:
+
+public Hero(String name,int hp,int mp){
+this.name=name;
+this.hp=hp;
+this.mp=mp;
+}
+
+public getName(){return this.name;}
+public getHp(){return this.ho;}
+public getMp(){return this.mp;}
+}
